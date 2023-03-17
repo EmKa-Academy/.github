@@ -20,3 +20,7 @@ Kaan mail: Kaan.Bicakci@wtwco.com
 Emincan mail: emincann.yilmaz@gmail.com
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emka-academy&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=10b40e&style=plastic" alt="emka-academy" /> </p>
+
+Kaan GitHub: https://github.com/Frightera
+
+Emincan GitHub: https://github.com/EmincanY
