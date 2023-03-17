@@ -12,4 +12,11 @@ GitHub üzerinde yayınlanan notebooklar sayesinde, sürekli güncel ve uygulama
 <a href="https://discord.gg/Dh963Hh4vc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dh963Hh4vc" height="30" width="40" /></a>
 </p>
 
+### Kişisel Kanallarımız & İletişim
+Kaan YT: <a href="https://www.youtube.com/@ezberindisinacikmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ezberindisinacikmak" height="30" width="40" />
+
+Kaan mail: Kaan.Bicakci@wtwco.com
+
+Emincan mail: emincann.yilmaz@gmail.com
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emka-academy&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=10b40e&style=plastic" alt="emka-academy" /> </p>
