@@ -13,16 +13,10 @@ GitHub üzerinde yayınlanan notebooklar sayesinde, sürekli güncel ve uygulama
 </p>
 
 ### Kişisel Kanallarımız & İletişim
-Kaan YT: <a href="https://www.youtube.com/@ezberindisinacikmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ezberindisinacikmak" height="30" width="40" />
-
-Kaan mail: Kaan.Bicakci@wtwco.com
-
-Emincan mail: emincann.yilmaz@gmail.com
-
----  
-  
-Kaan GitHub: https://github.com/Frightera
-
-Emincan GitHub: https://github.com/EmincanY
+|             	|                   **Kaan**                   	|        **Emincan**        	|
+|:-----------:	|:--------------------------------------------:	|:-------------------------:	|
+|   **Mail**  	|            Kaan.Bicakci@wtwco.com            	| emincann.yilmaz@gmail.com 	|
+| **YouTube** 	| https://www.youtube.com/@ezberindisinacikmak 	|             -             	|
+| **Discord** 	|              kaan_darkness#1002              	|       EmincanY#7477       	|
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emka-academy&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=10b40e&style=plastic" alt="emka-academy" /> </p>
